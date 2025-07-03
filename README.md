@@ -1,30 +1,31 @@
 
 <h3 align="center">🌙 Hello There I'm Farel</h3>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0d1117&height=200&section=header&text=Farel-a%20at%20Midnight&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+</p>
 
-### 🧑‍💻 About Me
- 
-- 💻 Focused on Web & Game Programming
-- 🛠️ Experienced with `PHP`, `C#`, `C++`, `MySQL`, and `Unity`  
-- 🌙 Night coder — quiet time, best code  
-- 📚 Passionate about learning and building useful, creative solutions  
+### 🕯️ About Me
 
----
+- 💻 Focused on building for the web and making games  
+- 🛠️ Skilled in `PHP`, `C#`, `C++`, and `MySQL`  
+- 🧰 Experienced with `Unity`, `Visual Studio`, `VS Code`  
+- 🌃 Most productive when the world sleeps  
+- 📖 Always learning, growing, and solving problems with code
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white&style=flat)
-![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white&style=flat)
 
 ---
 
-### 🔗 Connect With Me
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/yourprofile)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/yourprofile)
+### 🤝 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/yourprofile)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/whosrelfl?igsh=NmY1cHpkMGh0cHBm)
 
 ---
 
-> _"Code under the stars, learn without limits."_ ✨
+> _"Night is when the quiet code speaks the loudest."_ 🌙✨
