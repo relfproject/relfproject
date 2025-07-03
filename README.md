@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**relfproject/relfproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🌙 Hello There I'm Farel</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+ 
+- 💻 Focused on Web & Game Programming
+- 🛠️ Experienced with `PHP`, `C#`, `C++`, `MySQL`, and `Unity`  
+- 🌙 Night coder — quiet time, best code  
+- 📚 Passionate about learning and building useful, creative solutions  
+
+---
+
+### 🛠️ Tech Stack
+![PHP](https://img.shields.io/badge/-PHP-8892BF?logo=php&logoColor=white&style=flat)
+![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+
+---
+
+### 🔗 Connect With Me
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/yourprofile)
+
+---
+
+> _"Code under the stars, learn without limits."_ ✨
