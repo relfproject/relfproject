@@ -1,10 +1,6 @@
 
 <h3 align="center">🌙 Hello There I'm Farel</h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0d1117&height=200&section=header&text=Farel-a%20at%20Midnight&fontColor=ffffff&fontSize=40&animation=fadeIn" />
-</p>
-
 ### 🕯️ About Me
 
 - 💻 Focused on building for the web and making games  
